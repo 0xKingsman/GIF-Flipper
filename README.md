@@ -15,14 +15,17 @@ GIF-Flipper is a Python script that uses the MoviePy library to reverse or mirro
     ```
     pip install -r requirements.txt
     ```
+3. Select the directory
 
-2. Run the script:
+   Place the script in the same folder as the GIF's you want to work with.
+
+4. Run the script:
 
     ```
     python GIF-Flipper.py
     ```
 
-3. Wolah! The script has successfully mirrored all the GIFS replacing the originals.
+5. Wolah! The script has successfully mirrored all the GIFS replacing the originals.
 
 
 ## Author
